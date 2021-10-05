@@ -4,5 +4,5 @@
 # second，click on Chrome title
 # Third，click on preferences.
 <img src="https://github.com/Alecia113/Mac-environment/PyCharm/3.png"  width="500px"/>
-<img src="https://github.com/Alecia113/task_1/blob/main/start.png" width="500px"/>
+
 # Fourth，
